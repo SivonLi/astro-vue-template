@@ -1,5 +1,5 @@
 {
-  "name": "astro-template",
+  "name": "astro-vue-template",
   "type": "module",
   "version": "0.0.1",
   "scripts": {
@@ -13,8 +13,10 @@
   },
   "dependencies": {
     "@astrojs/check": "^0.5.10",
+    "@astrojs/vue": "^4.0.10",
     "astro": "^4.5.13",
-    "typescript": "^5.4.3"
+    "typescript": "^5.4.3",
+    "vue": "^3.4.21"
   },
   "devDependencies": {
     "@antfu/eslint-config": "^2.12.1",
